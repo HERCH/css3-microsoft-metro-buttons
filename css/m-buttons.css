@@ -192,6 +192,7 @@ input[type="search"]::-webkit-search-decoration, input[type="search"]::-webkit-s
   -webkit-background-clip: padding;
   -moz-background-clip: padding;
   background-clip: padding;
+  box-sizing: content-box;
   /* IE hacks */
 
   zoom: 1;
